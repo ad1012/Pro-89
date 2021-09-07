@@ -100,7 +100,7 @@ export default class CustomSideBarMenu extends Component {
           }}
         >
           <Avatar
-            ellipse
+            rounded
             source={{
               uri: this.state.image,
             }}
